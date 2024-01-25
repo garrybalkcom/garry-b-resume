@@ -45,12 +45,6 @@ video{
     object-fit: cover;
     z-index:-2;
 }
-#wrapper{
-   width:100%;
-    margin: 0 auto;
-    padding:0;
-    background:pink;
-}
 small{
     font-size: .75em;
 }
